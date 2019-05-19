@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="slider_view_height">56dp</dimen>
+    <dimen name="graph_view_margin">16dp</dimen>
+</resources>
